@@ -3,13 +3,7 @@
 > A curated list of awesome Taproot Assets  resources, apps, and libraries
 
 
-## Contents
-
-### Taproot Assets Protocol
-
-- [Implementations](#implementations)
-- [Specifications / White Papers](#specifications--white-papers)
-
+# Contents
 
 ## Taproot Assets Protocol
 
@@ -33,6 +27,9 @@
 - [Lightning Labs: Mint, Send, and Receive Taproot Assets on Bitcoin with the Alpha Daemon](https://www.youtube.com/watch?v=xtklaJHfKIY&ab_channel=LightningLabs)
 - [Lightning Labs: Issue and Discover Assets on Bitcoin with the Taproot Assets Protocol](https://www.youtube.com/watch?v=8Qi7VOvKe5o&ab_channel=LightningLabs)
 - [Bitcoin Builders Conference:Taproot Assets on Lightning](https://www.youtube.com/watch?v=2h2MabzCN7M&ab_channel=BitcoinBuildersConference)
+
+
+
 
 ### Books
 
